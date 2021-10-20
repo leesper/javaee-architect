@@ -1,0 +1,3 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "cibt0943/centos7_mysql5.7"
+end
